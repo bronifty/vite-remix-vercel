@@ -1,0 +1,37 @@
+{
+  "_components-eb3f5fdc.js": {
+    "file": "assets/components-eb3f5fdc.js",
+    "imports": [
+      "_jsx-runtime-26afeca0.js"
+    ]
+  },
+  "_jsx-runtime-26afeca0.js": {
+    "file": "assets/jsx-runtime-26afeca0.js"
+  },
+  "app/entry.client.tsx": {
+    "file": "assets/entry.client-1dd82fdc.js",
+    "imports": [
+      "_jsx-runtime-26afeca0.js",
+      "_components-eb3f5fdc.js"
+    ],
+    "isEntry": true,
+    "src": "app/entry.client.tsx"
+  },
+  "app/root.tsx": {
+    "file": "assets/root-3184e9c6.js",
+    "imports": [
+      "_jsx-runtime-26afeca0.js",
+      "_components-eb3f5fdc.js"
+    ],
+    "isEntry": true,
+    "src": "app/root.tsx"
+  },
+  "app/routes/_index.tsx": {
+    "file": "assets/_index-47773d94.js",
+    "imports": [
+      "_jsx-runtime-26afeca0.js"
+    ],
+    "isEntry": true,
+    "src": "app/routes/_index.tsx"
+  }
+}
